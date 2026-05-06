@@ -46,15 +46,15 @@ The app loads all quotes with paginated requests using:
 ```text
 Quotes-Listing-Application/
 +- src/
-¦  +- components/
-¦  ¦  +- Header.jsx
-¦  ¦  +- QuoteCard.jsx
-¦  ¦  +- PrevButton.jsx
-¦  ¦  +- NextButton.jsx
-¦  +- App.jsx
-¦  +- App.css
-¦  +- index.css
-¦  +- main.jsx
+ï¿½  +- components/
+ï¿½  ï¿½  +- Header.jsx
+ï¿½  ï¿½  +- QuoteCard.jsx
+ï¿½  ï¿½  +- PrevButton.jsx
+ï¿½  ï¿½  +- NextButton.jsx
+ï¿½  +- App.jsx
+ï¿½  +- App.css
+ï¿½  +- index.css
+ï¿½  +- main.jsx
 +- index.html
 +- package.json
 +- README.md
@@ -146,4 +146,4 @@ This app is deployed on **Vercel**:
 
 ## Author
 
-Built by **Logme** as part of the FreeAPI Quotes Listing project.
+Built by **Nausheen Faiyaz** as part of the FreeAPI Quotes Listing project.
